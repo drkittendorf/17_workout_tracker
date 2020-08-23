@@ -39,7 +39,7 @@ const ExerciseSchema = new Schema({
      
 });
 
-const WorkoutSchema = mongoose.Schema({
+const WorkoutSchema = new Schema({
     day: {
         type: Date,
         default: Date.now,

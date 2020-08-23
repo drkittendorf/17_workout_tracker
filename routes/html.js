@@ -1,5 +1,5 @@
 const router = require('express').Router();
-
+const path = require('path');
 
 // Front-End Routes
 module.exports = function(app) {
