@@ -10,7 +10,7 @@ workout tracker assignment 17
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Acceptance Criteria
+## Description
 
 When the user loads the page, they are given the option to create a new workout, or continue with their last workout.
 
@@ -22,9 +22,7 @@ The user can:
 
   * View the combined weight of multiple exercises on the `stats` page.
 
-## Submission on BCS
-
-You are required to submit the following:
+## Links
 
 * The URL to the deployed application
 
