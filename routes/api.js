@@ -18,7 +18,8 @@ router.put('/api/workouts/:id', async (req, res) => {
 		.then((data) => res.json(data))
 		.catch((err) => res.json(err));
 });
-// Create Routes
+
+// Create workouts
 router.post('/api/workouts', async ({ body }, res) => {
  try {
      let data = await Workouts.create(body);
@@ -26,17 +27,6 @@ router.post('/api/workouts', async ({ body }, res) => {
  } catch ({ message }) {
     res.json(message);
  }
-});
-
-
-router.get('/api/workouts',  (req, res) => {
-  Workouts.find({})
-  .then(dbResponse => {
-      res.json(dbResponse);
-  })
-  .catch(err => {
-    res.statusCode(400).json(err);
-});
 });
 
 router.get('/api/workouts/range', async (req, res) => {
