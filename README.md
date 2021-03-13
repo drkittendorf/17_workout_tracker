@@ -3,11 +3,11 @@
 ### TABLE OF CONTENTS
 
 - [CONTRIBUTOR(s)](#CONTRIBUTOR(s))
-- [USER STORY](#USER_STORY)
+- [USER STORY](#USER-STORY)
 - [DESCRIPTION](#DESCRIPTION)
 - [REFERENCE LINKS](#REFERENCE-LINKS)
-  - [Dale's React Portfolio Application :: Live Link](https://ancient-stream-67606.herokuapp.com/)
-  - [Dale's React Portfolio Application :: GitHub Repo](https://github.com/drkittendorf/17_workout_tracker)
+  - [Workout Tracker Application :: Live Link](https://ancient-stream-67606.herokuapp.com/)
+  - [Workout Tracker Application :: GitHub Repo](https://github.com/drkittendorf/17_workout_tracker)
 - [LANGUAGES AND TOOLS](#LANGUAGES-AND-TOOLS)
 - [CORE PROJECT TECHNOLOGIES](#CORE-PROJECT-TECHNOLOGIES)
 - [CORE NODE DEPENDENCIES](#CORE-NODE-DEPENDENCIES)
@@ -23,7 +23,7 @@ Dale Kittendorf
 
 ---
 
-## User Story
+## USER STORY
 
 - As a user, I want to be able to view create and track daily workouts. 
 - I want to be able to log multiple exercises in a workout on a given day. 
@@ -82,16 +82,15 @@ Link to **GitHub Repo** used for application development - [Application GitHub R
 
 Here is a list of all the core technologies used to develop this application.
 
-- `React.js - A JavaScript library for building user interfaces`
-- `Node.js - An asynchronous event-driven JavaScript runtime`
+- `Node.js` - An asynchronous event-driven JavaScript runtime.
 
 ### CORE NODE DEPENDENCIES
 
 The dependencies listed below are all the core NPM packages used throughout the project.
 
-- `express`
-- `mongoose`
-- `morgan`
+- `express` Unopinionated web framework.
+- `mongoose` Object Data Modeling (ODM) library for MongoDB and Node.js.
+- `morgan` HTTP request logger middleware for Node.js
 
 <br>
 
@@ -101,7 +100,9 @@ The dependencies listed below are all the core NPM packages used throughout the 
 
 For `future` development, I would like to incorporate the following `enhancements`:
 
-- 
+- Better presentation of workouts
+- Add predefined workout suggestions
+- Cleaner more responsive click-through with buttons.
 
 ---
 
