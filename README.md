@@ -7,7 +7,7 @@
 - [DESCRIPTION](#DESCRIPTION)
 - [REFERENCE LINKS](#REFERENCE-LINKS)
   - [Workout Tracker Application :: Live Link](https://ancient-stream-67606.herokuapp.com/)
-  - [Workout Tracker Application :: GitHub Repo](https://github.com/drkittendorf/17_workout_tracker)
+  - [Workout Tracker Application :: GitHub Repo](https://github.com/drkittendorf/workout_tracker)
 - [LANGUAGES AND TOOLS](#LANGUAGES-AND-TOOLS)
 - [CORE PROJECT TECHNOLOGIES](#CORE-PROJECT-TECHNOLOGIES)
 - [CORE NODE DEPENDENCIES](#CORE-NODE-DEPENDENCIES)
@@ -59,7 +59,7 @@ The user can:
 
 Link to **Workout Tracker** deployed on `HEROKU`- [Application Live Link](https://ancient-stream-67606.herokuapp.com/)
 
-Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/17_workout_tracker)
+Link to **GitHub Repo** used for application development - [Application GitHub Repo](https://github.com/drkittendorf/workout_tracker)
 
 <br>
 
